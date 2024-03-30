@@ -9,6 +9,3 @@ def solution(a, d, included):
     for i in X:
         answer+=i
     return answer
-
-A=solution(3,4,[True,False,False,True,True])
-print(A)
